@@ -1,3 +1,5 @@
 # ElectronicsDB_XML
-In this project I am trying to load the XML database to the Xbase and address specific queries using XPath and XQuery.
-In the second phase, I aim to transfer the data from XML to CSV format.
+
+As a data engineer specializing in XML, my primary focus revolves around parsing, querying, and transforming XML data using XPath and XQuery. Within our group assignment, I've taken on the responsibility of extracting and structuring data to facilitate further analysis.                                                 
+To begin our data processing journey, I've utilized the BaseX application to import the 'electronicsdb.xml' file. 
+
